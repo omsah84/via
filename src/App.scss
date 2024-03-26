@@ -1,0 +1,15 @@
+$breakpoint: 1190px;
+
+
+.app{
+    // @media (max-width: $breakpoint) {
+    //     display: none;
+    // }
+}
+
+.mobile{
+    display: none;
+    // @media (max-width: $breakpoint) {
+    //     display: inline;
+    //   }
+}
